@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(231, 163, 163) ;
+}
+.container{
+    margin:auto;
+    padding: 20px;
+}
+
+.card{
+  background-color: whitesmoke;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  display: inline-block;
+}
+
+.card img{
+    max-width: 100%;
+}
+
+.card-content{
+   display:inline;
+}
+
+.price-product{
+    font-family: 'Francois One', ;
+    color: firebrick;
+    font-size: 20;
+}
+
+.span1{
+    font-family: 'Francois One', ;
+    color:dimgray;
+    font-size: 10;
+    font-weight: bold;
+}
+.name-product{
+  font-family: 'Francois One', ;
+}
+
+.description{
+    font-family: 'Montserrat', ;
+    font-size: 12;
+    color: dimgray;
+}
+
+.footer{
+    background-color: firebrick;
+    font-family: 'Francois One', ;
+    font-weight: bold;
+    color:whitesmoke;
+    height:35px;
+    vertical-align: middle;
+}
+
+.footer img{
+    width: 20px;
+}
